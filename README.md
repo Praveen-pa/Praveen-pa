@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveen Annadurai
-- 👀 front end webdeveloper!
+- 👀 fullstack webdeveloper!
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me
 - Mail - praveenannadurai1912k4@gmail.com
