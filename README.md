@@ -63,4 +63,9 @@ Currently, I’m exploring the power of **AI assistants**, **automated data pipe
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com)](https://in.linkedin.com/in/praveen-annadurai-89168423a/)
+[![Email](https://img.shields.io/badge/Email-praveenannadurai1912k4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenannadurai1912k4@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat)](https://instagram.com/thepraveen.a)
+
+---
+
+> “Code is not just code, it’s a story you're telling the machine — and the humans who’ll read it next.”
