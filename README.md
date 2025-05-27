@@ -68,4 +68,4 @@ Currently, I’m exploring the power of **AI assistants**, **automated data pipe
 
 ---
 
-> “Code is not just code, it’s a story you're telling the machine — and the humans who’ll read it next.”
+*Code is not just code, it’s a story you're telling the machine — and the humans who’ll read it next.*
