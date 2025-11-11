@@ -3,6 +3,8 @@
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
 💡 Aspiring AI Engineer | ETL Developer | Data Engineer | Open-Source Enthusiast  
 
+<iframe src="https://github.com/sponsors/Praveen-pa/button" title="Sponsor Praveen-pa" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 ---
 
 ## 🚀 About Me
